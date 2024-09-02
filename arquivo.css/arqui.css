@@ -1,0 +1,27 @@
+body{
+    color: deeppink;
+    font-size: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    background-color:mistyrose;
+
+}
+table{
+    width: 100%;
+    background-color: lightpink;
+    text-align: center;
+    border-color:white;
+}
+h1{
+    color: black;
+}
+h2{
+    color: black;
+}
+h4{
+    color: black;
+}
+ul{
+    list-style-type: none;
+    list-style-image: url("doc.jfif")
+}
